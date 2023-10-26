@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align="right" alt="coding" height="280" border-radius="1.2" src="https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp" />
 
 
-- 🔭 I’m currently working as **MERN Stack Engineer**
+- 🔭 I’m currently working as **MERN Engineer**
 
 - 🌱 I’m currently learning **Algorithms for Problem Solving**
 
