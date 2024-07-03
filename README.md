@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Software Developer. I love exploring new technologies and building innovative solutions. My areas of interest include Web Development. I enjoy collaborating with fellow developers and contributing to open-source projects. When I'm not coding, you can find me solving puzzles. Let's connect and create something awesome together!
 </h3>
 <img align="right" alt="coding" height="280" border-radius="1.2" src="https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp" />
-
+<img src="https://komarev.com/ghpvc/?username=im-abdulmannan&label=Profile%20views&color=0e75b6&style=flat" alt="im-abdulmannan" />
 
 - 🔭 I’m currently working as **MERN Engineer**
 
