@@ -19,13 +19,12 @@ Here are some ideas to get you started:
 <img align="right" alt="coding" height="280" border-radius="1.2" src="https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp" />
 <img src="https://komarev.com/ghpvc/?username=im-abdulmannan&label=Profile%20views&color=0e75b6&style=flat" alt="im-abdulmannan" />
 
-- 🔭 I’m currently working as **MERN Engineer**
-
+- 🔭 I am a **Software Engineer**
 - 🌱 I’m currently learning **Algorithms for Problem Solving**
-
+- 👯 I’m ready to collaborate on **open-source projects**
 - 💬 Ask me about **React, Node and Data Structures**
-
 - 📫 How to reach me **a.mannan0607@gmail.com**
+- ⚡ Fun fact: I love to eat **Gol Gappy**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
