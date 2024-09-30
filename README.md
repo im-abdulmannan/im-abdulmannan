@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 👯 I’m ready to collaborate on **open-source projects**
 - 💬 Ask me about **React, Node and Data Structures**
 - 📫 How to reach me **a.mannan0607@gmail.com**
-- ⚡ Fun fact: I love to eat **Gol Gappy**.
+- ⚡ Fun fact: I love to eat **Gol Gappy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
